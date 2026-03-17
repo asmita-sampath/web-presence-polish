@@ -38,12 +38,6 @@ const About = () => {
                   solves, innovates, and executes.
                 </p>
                 <p>
-                  The name <strong className="text-foreground">Amazing Minds</strong> reflects our belief that
-                  extraordinary results come from people who think differently,
-                  solve problems creatively, and approach challenges with clarity
-                  and responsibility.
-                </p>
-                <p>
                   With extensive experience in telecom infrastructure deployment
                   across Tamil Nadu, we assist telecom operators, infrastructure
                   providers, and enterprises with site acquisition, regulatory
